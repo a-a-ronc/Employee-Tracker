@@ -28,6 +28,7 @@ VALUES ("Aaron", "Cendejas", 6,NULL),
        ("James","Lee", 1, NULL),
        ("Jennifer","Chen", 6, 9),
        ("Justin","Wong", 7, NULL),
+       ("Camila","Rojas", 1,NULL),
        ("Kelly","Taylor", 1, NULL);
 
    
